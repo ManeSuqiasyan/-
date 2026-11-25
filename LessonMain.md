@@ -1,6 +1,6 @@
 # Դաս 3․ Java Swing-ով առաջադրանքների պատուհան
 
-**Հեղինակ՝ Mane Suqiasyan**
+**Հեղինակ՝ ManeSuqiasyan**
 
 Օրիգինալ կոդը՝ [Main.java](Main.java)
 
